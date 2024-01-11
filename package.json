@@ -1,0 +1,16 @@
+{
+  "name": "instagram-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apurv vats",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "nanoid": "^5.0.4",
+    "snapsave-downloader-itj": "^1.0.1"
+  }
+}
